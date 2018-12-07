@@ -1,6 +1,4 @@
 # gitskills 
 test
 
-
-123132
-444555
+sss22
